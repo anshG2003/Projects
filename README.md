@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning JavaScript,HTML, Data Structure and Algorithms
+- 👨‍🎓 I’m currently A Graduate Engineering Student
+- 📫 How to reach me: anshgupta8004@gmail.com
+- 💬 Ask me about anything, I am happy to help
 <!--
 **anshG2003/anshG2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
